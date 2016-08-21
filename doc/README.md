@@ -1,8 +1,9 @@
 # AngularRc5Starter
 
+**[back](../README.md)**
+
 Just a starter project where I've worked out some of the kinks of using Angular 2, Angular-Cli and Angular-Material together 
 
-**[back](../README.md)**
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.11-webpack.
 
