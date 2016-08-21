@@ -2,6 +2,7 @@
 
 Just a starter project where I've worked out some of the kinks of using Angular 2, Angular-Cli and Angular-Material together 
 
+**[back](../README.md)**
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.11-webpack.
 
@@ -32,3 +33,5 @@ Run `ng github-pages:deploy` to deploy to Github Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng --help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+**[back](../README.md)**
